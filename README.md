@@ -4,26 +4,17 @@
 
 version_1.0
 
-This is a Spark_tutorial_dataset.
-The tutorial document is in my github(https://github.com/SteveKim0513/Quickstart-VM_spark_tutorial.git)
+These are datasets for Spark_real_world_tutorial.
+
+The tutorial document is in my github(https://github.com/SteveKim0513/Quickstart-VM_spark_real_world_tutorial.git)
 
 
 
 -file list-
 
-shakespeare.txt | sample_libsvm_data.txt | lpsa.data | people.txt
-
-
-----------------------------------------------------------
-
-
-version_1.1
-
-Add the dataset named "kv1.txt"
-This dataset is for additional tutorial,"Support hive on Spark".
+life_expectation.csv | local_tax.csv | number_of_hospital.csv | park_area.csv | property_tax.csv
 
 
 
--file list-
-
-shakespeare.txt | sample_libsvm_data.txt | lpsa.data | people.txt | kv1.txt
+You can download datasets like these from the sites where offer the public information of Seoul.
+(http://data.seoul.go.kr, http://stat.seoul.go.kr)
